@@ -26,7 +26,7 @@
 &kp TAB    &kp A                  &kp S      &kp D          &kp F         &kp G                    &kp H         &kp J      &kp K      &kp L    &kp SEMI   &kp SQT
 &kp LSHFT  &kp Z                  &kp X      &kp C          &kp V         &kp B                    &kp C_MUTE    &mo 3      &kp N      &kp M    &kp COMMA  &kp DOT
 &kp FSLH   &kp RIGHT_PARENTHESIS  &kp LCTRL  &kp BACKSPACE  &kp LEFT_GUI  &kp K_PASTE  &kp K_COPY  &kp LEFT_ALT  &kp SPACE  &kp ENTER  &mo RSE  &mo 1      &kp PIPE        &kp RALT
-                                                                                                   &kp PERCENT                                                             &kp RCTRL
+                                                                                                   &mo 3                                                                   &kp RCTRL
             >;
 
             sensor-bindings =
