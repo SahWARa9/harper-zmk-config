@@ -21,12 +21,12 @@
 
         default_layer {
             bindings = <
-&kp ESC    &kp N1                 &kp N2     &kp N3         &kp N4        &kp N5                   &kp N6        &kp N7     &kp N8     &kp N9   &kp N0     &kp BACKSPACE
-&kp GRAVE  &kp Q                  &kp W      &kp E          &kp R         &kp T                    &kp Y         &kp U      &kp I      &kp O    &kp P      &kp LEFT_BRACE
-&kp TAB    &kp A                  &kp S      &kp D          &kp F         &kp G                    &kp H         &kp J      &kp K      &kp L    &kp SEMI   &kp SQT
-&kp LSHFT  &kp Z                  &kp X      &kp C          &kp V         &kp B                    &kp C_MUTE    &mo 3      &kp N      &kp M    &kp COMMA  &kp DOT
-&kp FSLH   &kp RIGHT_PARENTHESIS  &kp LCTRL  &kp BACKSPACE  &kp LEFT_GUI  &kp K_PASTE  &kp K_COPY  &kp LEFT_ALT  &kp SPACE  &kp ENTER  &mo RSE  &mo 1      &kp PIPE        &kp RALT
-                                                                                                   &mo 3                                                                   &kp RCTRL
+&kp ESC    &kp N1                 &kp N2     &kp N3  &kp N4        &kp N5                   &kp N6        &kp N7     &kp N8     &kp N9   &kp N0     &kp BACKSPACE
+&kp GRAVE  &kp Q                  &kp W      &kp E   &kp R         &kp T                    &kp Y         &kp U      &kp I      &kp O    &kp P      &kp LEFT_BRACE
+&kp TAB    &kp A                  &kp S      &kp D   &kp F         &kp G                    &kp H         &kp J      &kp K      &kp L    &kp SEMI   &kp SQT
+&kp LSHFT  &kp Z                  &kp X      &kp C   &kp V         &kp B                    &kp C_MUTE    &mo 3      &kp N      &kp M    &kp COMMA  &kp DOT
+&kp FSLH   &kp RIGHT_PARENTHESIS  &kp LCTRL  &mo 3   &kp LEFT_GUI  &kp K_PASTE  &kp K_COPY  &kp LEFT_ALT  &kp SPACE  &kp ENTER  &mo RSE  &mo 1      &kp PIPE        &kp RALT
+                                                                                            &mo 3                                                                   &kp RCTRL
             >;
 
             sensor-bindings =
